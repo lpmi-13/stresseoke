@@ -11,6 +11,7 @@ and display them below an embedded react component showing the youtube video for
 unanswered questions:
 
 - how can we sync up the lyrics with the spoken words in the song?
+(possible approach: https://pub.tik.ee.ethz.ch/students/2017-HS/SA-2017-92.pdf)
 
 - what's the best way to compute the predicted stress patterns for the words? (MVP is probably just using content words, or possibly even two-peaks theory)
 
